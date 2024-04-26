@@ -39,7 +39,7 @@ The `Frontend` directory contains all frontend-related files and folders.
 
 ## Credits 
 - [Mamoun Mohamed](https://github.com/MamounMohamed)
-- [Arsany Milad] (https://github.com/aroo530)
+- [Arsany Milad](https://github.com/aroo530)
 
 
 
